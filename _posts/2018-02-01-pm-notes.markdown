@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      "产品经理的核心素养"
+subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
+date:       2018-02-01
+author:     "whurock"
+tags:
+    - 产品经理
+    - 笔记
+---
