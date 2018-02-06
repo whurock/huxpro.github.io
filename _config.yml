@@ -85,7 +85,7 @@ service-worker: true
 
 
 # Friends
-Enjoys: [
+Friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
