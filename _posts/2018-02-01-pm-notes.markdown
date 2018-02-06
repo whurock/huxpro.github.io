@@ -4,7 +4,7 @@ title:      数据分析基本知识
 subtitle:   "产品经理对数据分析的一些认识"
 date:       2018-02-01
 author:     "whurock"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/post-bg-2015.jpg"
 tags:
 - 学习笔记
 - 产品经理
