@@ -4,7 +4,7 @@ title:      我不特殊
 subtitle:   "再见,科瓦西奇"
 date:       2015-08-21
 author:     "whurock"
-header-img: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1517906857763&di=6db1f0949e70fd2d2e858a07670cc151&imgtype=0&src=http%3A%2F%2Fpic.syd.com.cn%2F0%2F100%2F07%2F45%2F100074586_00000000e68db3dc.jpg"
+header-img: "img/inter.jpg"
 tags:
 - 足球
 - 国际米兰
