@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "产品之路漫长，<br>凡人皆有一死"
+sidebar-about-description: "产品之路漫长，<br>凡人皆有一死 凡人皆需伺奉"
 sidebar-avatar: /img/h_large_1lsu_7c39000046251375.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -85,39 +85,39 @@ service-worker: true
 
 
 # Friends
-friends: [
+Enjoys: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: " 哔哩哔哩",
+        href: "https://www.bilibili.com/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "cocoachina",
+        href: "http://www.cocoachina.com/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "人人都是产品经理",
+        href: "http://www.woshipm.com/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "万丽娜",
+        href: "https://weibo.com/u/3705941004?refer_flag=1001030101_&is_all=1"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: "产品周末",
+        href: "http://www.gauin.com/"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "刘未鹏 | Mind Hacks",
+        href: "http://mindhacks.cn/"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "莿鸟栖草堂",
+        href: "http://www.cnxct.com/"
     },{
-        title: "DHong Say",
-        href: "http://dhong.co"
+        title: "国际米兰",
+        href: "http://www.inter.it/cn/hp/"
     },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "七麦数据",
+        href: "https://www.qimai.cn/"
     },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+        title: "企鹅智库",
+        href: "http://re.qq.com/"
     }
 ]
