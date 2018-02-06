@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "产品经理的核心素养"
-subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
+subtitle:   "Project Manager, ES.Next: How to be a qualified product manager?"
 date:       2018-02-01
 author:     "whurock"
 tags:
