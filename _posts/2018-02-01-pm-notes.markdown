@@ -6,7 +6,5 @@ date:       2018-02-01
 author:     "whurock"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 学习笔记
-    - JavaScript
-    - 翻译
+    - 学习笔记
 ---
