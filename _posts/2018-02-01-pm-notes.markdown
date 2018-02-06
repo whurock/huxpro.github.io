@@ -1,9 +1,12 @@
 ---
 layout:     post
-subtitle:   " \"怎么样做一个合格的产品经理\""
-date:       2018-02-01 12:00:00
+title:      "产品经理的核心素养"
+subtitle:   "怎样做一个合格的产品经理?"
+date:       2018-02-01
 author:     "whurock"
+header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 学习笔记
-    - 产品经理
+    - 前端开发
+    - JavaScript
+    - 翻译
 ---
