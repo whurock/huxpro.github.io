@@ -6,5 +6,6 @@ date:       2018-02-01
 author:     "whurock"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 学习笔记
+- 学习笔记
+- 产品经理
 ---
