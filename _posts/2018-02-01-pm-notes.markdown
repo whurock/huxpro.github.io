@@ -8,6 +8,7 @@ header-img: "img/post-bg-js-version.jpg"
 tags:
 - 学习笔记
 - 产品经理
+- 数据分析
 ---
 
 
