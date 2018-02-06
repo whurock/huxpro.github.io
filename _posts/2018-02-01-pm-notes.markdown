@@ -1,8 +1,9 @@
 ---
 layout:     post
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"怎么样做一个合格的产品经理\""
 date:       2018-02-01 12:00:00
 author:     "whurock"
 tags:
-    - 生活
+    - 产品经理
+    - 学习笔记
 ---
