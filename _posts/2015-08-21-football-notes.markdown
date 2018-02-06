@@ -6,7 +6,6 @@ date:       2015-08-21
 author:     "whurock"
 header-img: "img/post-bg-2015.jpg"
 tags:
-- 学习笔记
-- 产品经理
-- 数据分析
+- 足球
+- 国际米兰
 ---
