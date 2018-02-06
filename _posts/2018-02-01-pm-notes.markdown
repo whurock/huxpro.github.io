@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "产品经理的核心素养"
+title:      产品经理的核心素养
 subtitle:   "怎样做一个合格的产品经理?"
 date:       2018-02-01
 author:     "whurock"
